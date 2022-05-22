@@ -26,7 +26,7 @@ def wishMe():
     else:
         speak("Good Evening!")
 
-    speak("my name is bond. james bond. Please tell me how may I help you")
+    speak("my name intellio. Please tell me how may I help you")
 def takeCommand(ask=False):
     r = sr.Recognizer()
     if ask:
