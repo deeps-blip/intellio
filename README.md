@@ -46,6 +46,12 @@ step 5: click on the pyaudioand click on the same python version you are running
 
 step 6: go to your downloads to see if a file with .whl extension is downloaded
 
+step 7: shift + right-click and open the powershell window in your downloaded file and hit the command pip install (pyaudio file you've downloaded)
+
+Finished
+
+';'
+
 
 
 
