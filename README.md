@@ -42,7 +42,7 @@ step 3: click on the first link that pops on the browser
 
 step 4: hit cntrl + f and search for the module called pyaudio
 
-step 5: click on the pyaudioand click on the same python version you are running 
+step 5: click on the pyaudio and click on the same python version you are running 
 
 step 6: go to your downloads to see if a file with .whl extension is downloaded
 
